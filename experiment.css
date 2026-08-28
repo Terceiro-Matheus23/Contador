@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+
+main{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+
+
+.botao{
+    display: flex;
+    gap: 20px;
+    
+}
+
+button{
+    width: 80px;
+    height: 42px;
+    cursor: pointer;
+
+    
+}
+
+
+
